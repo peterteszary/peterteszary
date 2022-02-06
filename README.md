@@ -1,4 +1,4 @@
-###👋 Hey There,
+👋 Hey There,
 
 Nice to have you on my Github Profile!
 🧑‍🚀 My name is Peter.
@@ -10,13 +10,13 @@ Since 2016, I have developed a wide range of websites using WordPress, for start
 🛠️ I love to work with page builders :
 Oxygen Builder | Bricks Builder | Elementor | The Divi Builder
 
-##My main areas of freelance work
+My main areas of freelance work
 
 ✅ WordPress Sitebuild
 ✅ WooCommerce Webshop Build
 ✅ On-Site / Technical SEO
 
-##🚀 My Stacks are:
+🚀 My Stacks are:
 
 🖱 Front-end Development
 · HTML, CSS, SASS, API, Javascript, jQuery,
@@ -40,7 +40,7 @@ Oxygen Builder | Bricks Builder | Elementor | The Divi Builder
 
 ---
 
-##🏁 My main interests are:
+🏁 My main interests are:
 
 🦾 To grow my full-stack skills, 
 🧠 Expand my knowledge in programming
