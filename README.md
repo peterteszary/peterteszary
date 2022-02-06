@@ -1,7 +1,7 @@
 ## 👋 Hey There,
 
-## Nice to have you on my Github Profile!
-## 🧑‍🚀 My name is Peter.
+### Nice to have you on my Github Profile!
+### 🧑‍🚀 My name is Peter.
 
 💻 I am a full-time individual freelancer.
 
