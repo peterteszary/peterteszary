@@ -36,8 +36,3 @@ In terms of design tools, my favorites are Figma, Inkscape, Krita, PhotoShop, Il
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peterteszary&show_icons=true&locale=en&layout=compact" alt="peterteszary" /></p>
 </br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peterteszary&show_icons=true&locale=en" alt="peterteszary" /></p>
-</br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peterteszary&" alt="peterteszary" /></p>
