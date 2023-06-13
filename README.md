@@ -15,6 +15,8 @@ Welcome to my Github Profile! I'm Peter, a passionate frontend developer from Hu
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=peterteszary&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
+<a class="twitter-timeline" href="https://twitter.com/peterteszary?ref_src=twsrc%5Etfw">Tweets by peterteszary</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
