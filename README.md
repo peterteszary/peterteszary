@@ -18,10 +18,10 @@ Welcome to my Github Profile! I'm Peter, a passionate frontend developer from Hu
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/peterteszary)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=peterteszary&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/peterteszary) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
